@@ -6,7 +6,6 @@
 
 - Local update flashing support (via the updater app)
 - Signature spoofing (For MicroG)
-- Bromite WebView support
 - [ih8sn](http://github.com/itsvixano/ih8sn) shipped by default
 - DT2S on home screen
 - Reworked recents
