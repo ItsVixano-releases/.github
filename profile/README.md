@@ -4,7 +4,6 @@
 
 > Something might be missing from older builds
 
-- Local update flashing support (via the updater app)
 - Signature spoofing (For MicroG)
 - [ih8sn](http://github.com/itsvixano/ih8sn) shipped by default
 - DT2S on home screen
