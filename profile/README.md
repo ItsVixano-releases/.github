@@ -6,17 +6,19 @@
 - Mulch WebView support
 - [ih8sn](http://github.com/itsvixano/ih8sn) shipped by default
 - DT2S on home screen
-- Reworked recents
+- Reworked recent apps page
 - Defaults to the high aspect ratio resolution on old apps
 - Remove old app target SDK dialog
 - Remove Android build number from QS footer
-- Misc debugging / tracing disabled and optimizations
+- Misc debugging / tracing disabled
+- Misc backend optimizations
 - Delete option on screen recorder notification
+- Using `HEVC` encoder for screen recording
 - Enabled some [Android Go optimisations](https://github.com/ItsVixano/android_vendor_extra/blob/master/config/go.mk) (+ LKMD Optimizations for legacy SOCs)
 - Disabled ripple animation on legacy SOCs
 - `adb shell` now uses bash shell instead + `neofetch` for flexing you are using Android
 - Wireless `adb` port set to `5555` already
-- Proper [MiuiCamera](https://github.com/ItsVixano-releases/LineageOS_extra/releases/tag/xiaomi_firmwares) support on `lisa`, bundled as a Magisk module
+- Proper [MiuiCamera](https://github.com/ItsVixano-releases/LineageOS_extra/releases/tag/xiaomi_firmwares) support on `lisa` and `miatoll`, bundled as a Magisk module
 
 ## Notes
 
