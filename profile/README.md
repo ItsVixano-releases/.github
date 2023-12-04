@@ -4,7 +4,6 @@
 
 - Signature spoofing (For MicroG)
 - Mulch WebView support
-- [ih8sn](http://github.com/itsvixano/ih8sn) shipped by default
 - DT2S on home screen
 - Reworked recent apps page
 - Defaults to the high aspect ratio resolution on old apps
