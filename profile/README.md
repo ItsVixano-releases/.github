@@ -29,6 +29,7 @@
 
 - [Android Open Source Project](https://android.googlesource.com/)
 - [LineageOS](https://github.com/LineageOS)
+- [LMODroid](https://github.com/LMODroid)
 - [crDroid Android](https://github.com/crdroidandroid)
 - [ProtonAOSP](https://github.com/ProtonAOSP)
 - [PixelExperience](https://github.com/PixelExperience)
