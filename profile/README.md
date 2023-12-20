@@ -6,6 +6,7 @@
 - Mulch WebView support
 - DT2S on home screen
 - Reworked recent apps page
+- Keyboard gliding gesture without GMS
 - Defaults to the high aspect ratio resolution on old apps
 - Remove old app target SDK dialog
 - Remove Android build number from QS footer
