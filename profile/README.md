@@ -13,7 +13,6 @@
 - Misc debugging / tracing disabled
 - Misc backend optimizations
 - Delete option on screen recorder notification
-- Using `HEVC` encoder for screen recording
 - Enabled some [Android Go optimisations](https://github.com/ItsVixano/android_vendor_extra/blob/master/config/go.mk) (+ LKMD Optimizations for legacy SOCs)
 - Disabled ripple animation on legacy SOCs
 - `adb shell` now uses bash shell instead + `neofetch` for flexing you are using Android
