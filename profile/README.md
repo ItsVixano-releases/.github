@@ -32,6 +32,7 @@
 - [LMODroid](https://github.com/LMODroid)
 - [crDroid Android](https://github.com/crdroidandroid)
 - [ProtonAOSP](https://github.com/ProtonAOSP)
+- [GrapheneOS](https://github.com/GrapheneOS)
 - [PixelExperience](https://github.com/PixelExperience)
 - [random-aosp-stuff](https://github.com/random-aosp-stuff)
 - [Alexander Winkowski](https://github.com/dereference23/)
