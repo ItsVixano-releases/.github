@@ -2,7 +2,6 @@
 
 ## Changes from LineageOS sources
 
-- Signature spoofing (For MicroG)
 - Mulch WebView support
 - DT2S on home screen
 - Reworked recent apps page
