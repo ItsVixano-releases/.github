@@ -33,6 +33,7 @@
 - [ProtonAOSP](https://github.com/ProtonAOSP)
 - [GrapheneOS](https://github.com/GrapheneOS)
 - [PixelExperience](https://github.com/PixelExperience)
+- [LeafOS Project](https://github.com/LeafOS-Project)
 - [random-aosp-stuff](https://github.com/random-aosp-stuff)
 - [Alexander Winkowski](https://github.com/dereference23/)
 - A lot of friends who helped me :D
