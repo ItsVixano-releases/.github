@@ -16,7 +16,7 @@
 - Disabled ripple animation on legacy SOCs
 - `adb shell` now uses bash shell instead + `neofetch` for flexing you are using Android
 - Wireless `adb` port set to `5555` already
-- Proper [MiuiCamera](https://github.com/ItsVixano-releases/LineageOS_extra/releases/tag/xiaomi_firmwares) support on `lisa` and `miatoll`, bundled as a Magisk module
+- ~~Proper [MiuiCamera](https://github.com/ItsVixano-releases/LineageOS_extra/releases/tag/xiaomi_firmwares) support on `lisa` and `miatoll`, bundled as a Magisk module~~
 
 ## Notes
 
