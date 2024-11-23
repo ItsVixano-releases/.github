@@ -1,36 +1,47 @@
-# Giovanni Unofficial LineageOS
+# Giovanni Unofficial LineageOS Builds
+
+> [!WARNING]
+> ```c
+> #include <std/disclaimer.h>
+> /*
+>  * While these builds are heavily optimized, they are also capable of pushing
+>  * your phone much harder. I am not responsible for bricked devices, dead SD cards,
+>  * thermonuclear war, or you getting fired because the alarm app failed. Please
+>  * do some research if you have any concerns about features included in this ROM
+>  * before flashing it! YOU are choosing to make these modifications, and if
+>  * you point the finger at me for messing up your device, I will laugh at you.
+>  */
+>  ```
+
+> [!NOTE]
+> All builds published on this page have support for [over-the-air (OTA)](https://source.android.com/docs/core/ota) updates.
 
 ## Changes from LineageOS sources
 
-- Mulch WebView support.
-- DT2S on home screen.
+- Double tap to sleep gesture on home screen.
 - Reworked recent apps page.
-- Keyboard gliding gesture without GMS.
-- Defaults to the high aspect ratio resolution on old apps.
-- Remove old app target SDK dialog.
-- Remove Android build number from QS footer.
-- Misc backend optimizations.
-- Enabled some [Android Go optimization](https://github.com/ItsVixano/android_vendor_extra/blob/master/config/go.mk) (+ LKMD Optimizations for legacy SOCs).
-- Disabled ripple animation on legacy SOCs.
-- `adb shell` now uses bash shell instead + `neofetch` for flexing you are using Android.
-- ~~Proper [MiuiCamera](https://github.com/ItsVixano-releases/LineageOS_extra/releases/tag/xiaomi_firmwares) support on `lisa` and `miatoll`, bundled as a Magisk module.~~
-
-## Notes
-
-> Both Unofficial and Official builds for `lisa` and `miatoll` (that are published in this org) are maintained by me
-
-> Something might be missing from older builds
+- Keyboard glide typing support without Google services.
+- Various backend performance & UX improvements.
+- Enabled various Android Go tweaks.
+- `adb shell` now uses the `bash` shell instead + `neofetch` for flexing on `r/unixporn` that you are using Android _/s_.
+- Built-in workarounds for passing [Play Integrity](https://developer.android.com/google/play/integrity) [`MEETS_DEVICE_INTEGRITY` checks](https://developer.android.com/google/play/integrity/verdicts) (without root).
+- Built-in [`customizable lockscreen clocks`](https://9to5google.com/2023/06/07/android-14-lockscreen-clocks/) extracted from Pixel's dump.
+- Built-in [`Bellis`](https://github.com/CalyxOS/platform_packages_apps_Bellis) Work Profile manager app.
+- Built-in MiuiCamera app for the following targets:
+  - `lisa`.
+  - `xaga`.
 
 ## Credits
 
 - [Android Open Source Project](https://android.googlesource.com/)
 - [LineageOS](https://github.com/LineageOS)
-- [LMODroid](https://github.com/LMODroid)
+- [CalyxOS](https://github.com/CalyxOS)
 - [crDroid Android](https://github.com/crdroidandroid)
-- [ProtonAOSP](https://github.com/ProtonAOSP)
 - [GrapheneOS](https://github.com/GrapheneOS)
-- [PixelExperience](https://github.com/PixelExperience)
 - [LeafOS Project](https://github.com/LeafOS-Project)
+- [LMODroid](https://github.com/LMODroid)
+- [PixelExperience](https://github.com/PixelExperience)
+- [ProtonAOSP](https://github.com/ProtonAOSP)
 - [random-aosp-stuff](https://github.com/random-aosp-stuff)
 - [Alexander Winkowski](https://github.com/dereference23/)
 - A lot of friends who helped me :D
