@@ -2,21 +2,18 @@
 
 ## Changes from LineageOS sources
 
-- Mulch WebView support
-- DT2S on home screen
-- Reworked recent apps page
-- Keyboard gliding gesture without GMS
-- Defaults to the high aspect ratio resolution on old apps
-- Remove old app target SDK dialog
-- Remove Android build number from QS footer
-- Misc debugging / tracing disabled
-- Misc backend optimizations
-- Delete option on screen recorder notification
-- Enabled some [Android Go optimisations](https://github.com/ItsVixano/android_vendor_extra/blob/master/config/go.mk) (+ LKMD Optimizations for legacy SOCs)
-- Disabled ripple animation on legacy SOCs
-- `adb shell` now uses bash shell instead + `neofetch` for flexing you are using Android
-- Wireless `adb` port set to `5555` already
-- ~~Proper [MiuiCamera](https://github.com/ItsVixano-releases/LineageOS_extra/releases/tag/xiaomi_firmwares) support on `lisa` and `miatoll`, bundled as a Magisk module~~
+- Mulch WebView support.
+- DT2S on home screen.
+- Reworked recent apps page.
+- Keyboard gliding gesture without GMS.
+- Defaults to the high aspect ratio resolution on old apps.
+- Remove old app target SDK dialog.
+- Remove Android build number from QS footer.
+- Misc backend optimizations.
+- Enabled some [Android Go optimization](https://github.com/ItsVixano/android_vendor_extra/blob/master/config/go.mk) (+ LKMD Optimizations for legacy SOCs).
+- Disabled ripple animation on legacy SOCs.
+- `adb shell` now uses bash shell instead + `neofetch` for flexing you are using Android.
+- ~~Proper [MiuiCamera](https://github.com/ItsVixano-releases/LineageOS_extra/releases/tag/xiaomi_firmwares) support on `lisa` and `miatoll`, bundled as a Magisk module.~~
 
 ## Notes
 
