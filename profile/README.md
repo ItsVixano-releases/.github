@@ -20,7 +20,6 @@
 - Keyboard glide typing support without Google services.
 - Various backend performance & UX improvements.
 - `adb shell` now uses the `bash` shell instead + `neofetch` for flexing on `r/unixporn` that you are using Android _/s_.
-- Built-in workarounds for passing [Play Integrity](https://developer.android.com/google/play/integrity) [`MEETS_DEVICE_INTEGRITY` checks](https://developer.android.com/google/play/integrity/verdicts) (without root).
 - Built-in [customizable lockscreen clocks](https://9to5google.com/2023/06/07/android-14-lockscreen-clocks/) extracted from Pixel's dump.
 - Built-in [`Bellis`](https://github.com/CalyxOS/platform_packages_apps_Bellis) Work Profile manager app.
 
@@ -31,7 +30,6 @@
 - [CalyxOS](https://github.com/CalyxOS)
 - [crDroid Android](https://github.com/crdroidandroid)
 - [GrapheneOS](https://github.com/GrapheneOS)
-- [LeafOS Project](https://github.com/LeafOS-Project)
 - [LMODroid](https://github.com/LMODroid)
 - [PixelExperience](https://github.com/PixelExperience)
 - [ProtonAOSP](https://github.com/ProtonAOSP)
