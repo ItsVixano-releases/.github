@@ -1,5 +1,8 @@
 # Giovanni Unofficial LineageOS Builds
 
+> [!WARNING]
+> Builds are no longer released via GitHub releases due to their limits. New builds are available on a self-hosted server at [files.itsvixano.me/lineage](https://files.itsvixano.me/lineage/). Please check out the [wiki](https://wiki.itsvixano.me/) before installing.
+
 ```c
 #include <std/disclaimer.h>
 /*
